@@ -3,6 +3,11 @@
     box-sizing: border-box;
     color: white;
     text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+.container{
+    padding: 100px;
+    margin: 50px;
 }
 .title{
     color: #ffffff;
@@ -13,7 +18,9 @@
     height: 50px;
     width: 100px;
     margin:10px;
-    color: #ffffff00
+    color: #ffffff00;
+    text-decoration: none;
+    
 }
 .button2{
     height: 50px;
